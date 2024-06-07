@@ -1,0 +1,154 @@
+{
+  "name": "WORDLE",
+  "@name": {
+    "description": "The app name for logo"
+  },
+  "play": "Play",
+  "@play": {
+    "description": "The play button text"
+  },
+  "options": "Options",
+  "@options": {
+    "description": "The options button text"
+  },
+  "admin": "Admin",
+  "@admin": {
+    "description": "The admin button text"
+  },
+  "sign_in": "Sing in",
+  "@sign_in": {
+    "description": "The sign in button default text"
+  },
+  "sign_up": "Sing up",
+  "@sign_up": {
+    "description": "The sign up button default text"
+  },
+  "username": "Username",
+  "@username": {
+    "description": "The text of text field label"
+  },
+  "password": "Password",
+  "@password": {
+    "description": "The text of text field label"
+  },
+  "loading": "Loading",
+  "@loading": {
+    "description": "The button description of loading process"
+  },
+  "success": "Success",
+  "@success": {
+    "description": "The button description of success result"
+  },
+  "route_is_not_finded": "Route is not finded",
+  "@route_is_not_finded": {
+    "description": "The error message when rout is missed"
+  },
+  "congratulations": "Congratulations!",
+  "@congratulations": {
+    "description": "Title of congratulations message"
+  },
+  "tries_count_start": "You guessed your word on ",
+  "@tries_count_start": {
+    "description": "Start of tries count message"
+  },
+  "tries_count_end": " tries",
+  "@tries_count_end": {
+    "description": "End of tries count message"
+  },
+  "tries_count_end_single": " try",
+  "@tries_count_end_single": {
+    "description": "Alternate end of tries count message"
+  },
+  "restart": " Restart",
+  "@restart": {
+    "description": "Restart button text"
+  },
+  "main_menu": " Main menu",
+  "@main_menu": {
+    "description": "Main menu button text"
+  },
+  "loose_title": "Don`t be upset!",
+  "@loose_title": {
+    "description": "Loose title"
+  },
+  "loose_text": "Better luck next time",
+  "@loose_text": {
+    "description": "Loose text"
+  },
+  "round": "Round",
+  "@round": {
+    "description": "Game screen appbar text"
+  },
+  "unauth_title": "Oh oh",
+  "@unauth_title": {
+    "description": "Anathorized screen title"
+  },
+  "unauth_subtitle": "Looks like you are not logged in.",
+  "@unauth_subtitle": {
+    "description": "Anathorized screen subtitle"
+  },
+  "unauth_text": "Please log in to access your personal account and leaderboard.",
+  "@unauth_text": {
+    "description": "Anathorized screen text"
+  },
+  "points": " pts.",
+  "@points": {
+    "description": "Points subscription"
+  },
+  "change_username": "Change username",
+  "@change_username": {
+    "description": "Change username button text"
+  },
+  "change_password": "Change password",
+  "@change_password": {
+    "description": "Change password button text"
+  },
+  "sign_out": "Sign out",
+  "@sign_out": {
+    "description": "Sign out button text"
+  },
+  "delete_account": "Delete account",
+  "@delete_account": {
+    "description": "Delete account button text"
+  },
+  "language": "Language",
+  "@language": {
+    "description": "Language option title"
+  },
+  "old_password": "Old password",
+  "@old_password": {
+    "description": "Old password textfield label"
+  },
+  "new_password": "New password",
+  "@new_password": {
+    "description": "New password textfield label"
+  },
+  "sure": "Are you sure",
+  "@sure": {
+    "description": "Crutial decisions title"
+  },
+  "welcome_title": "Welcome",
+  "@welcome_title": {
+    "description": "Welcome message title"
+  },
+  "welcome_subtitle": "to admin panel",
+  "@welcome_subtitle": {
+    "description": "Welcome message subtitle"
+  },
+  "add_word": "Add word",
+  "@add_word": {
+    "description": "Add word button text"
+  },
+  "update_word": "Update word",
+  "@udpate_word": {
+    "description": "Update word button text"
+  },
+  "delete_word": "Delete word",
+  "@delete_word": {
+    "description": "Delete word button text"
+  },
+  "not_logined": "User is not logined",
+  "@not_logined": {
+    "description": "User is not logined error message"
+  }
+}
